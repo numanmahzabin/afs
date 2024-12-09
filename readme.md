@@ -2,12 +2,10 @@
 
 ### Demo
 
-- Solution URL: https://github.com/numanmahzabin/portfolio-tailwind
-- Live Site URL: https://numanmahzabin.github.io/portfolio-tailwind
+- Live Site URL: https://numanmahzabin.github.io/afs/
 
 ### Setup instructions
-Please pull this repo named 'afs'. Inside the 'Code' folder, all the coding problem's solutions are placed. And Inside the 'Design' folder, website design part took placed. 
-
+Please pull this repo named 'afs'. Inside the 'problem solving code' folder, all the coding problem's solutions are placed. 
 ### List of technologies used
 
 - HTML5
